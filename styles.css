@@ -48,6 +48,7 @@ button{
   background-color: red;
   border: 0;
   color: white;
+  text-align: center;
 }
 button:hover{
   background-color: lightgray;
